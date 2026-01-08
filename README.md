@@ -97,4 +97,4 @@ The required tables will be created automatically when the backend starts.
 
 ## Author
 
-**Ishan Dasgupta**
+**Aditi Karmakar**
